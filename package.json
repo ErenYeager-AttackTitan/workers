@@ -1,0 +1,13 @@
+{
+  "name": "aes128-telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot for AES-128 encryption and decryption (ECB mode)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "crypto": "^1.0.1"
+  }
+}
