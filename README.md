@@ -1,5 +1,5 @@
 
-encrypt and decrypt BOT
+Encrypt and Decrypt BOT
 
 ```
 https://t.me/workersmainBot
